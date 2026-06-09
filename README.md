@@ -125,3 +125,19 @@ python attendance_with_antispoofing.py
 
 ---
 
+##   project screenshots
+<img width="1631" height="915" alt="Screenshot 2026-06-09 145557" src="https://github.com/user-attachments/assets/47548705-cf9a-42d2-ab2e-1a70ae0c464a" />
+<img width="1683" height="913" alt="Screenshot 2026-06-09 145620" src="https://github.com/user-attachments/assets/2208e8c3-5a71-4317-87ee-fc71cd8cf8f7" />
+<img width="1682" height="915" alt="Screenshot 2026-06-09 145832" src="https://github.com/user-attachments/assets/6a778fef-cb48-4e52-8e14-ceabc2da9d3f" />
+<img width="1686" height="909" alt="Screenshot 2026-06-09 145910" src="https://github.com/user-attachments/assets/34365378-56ae-4991-a434-37bcb52543c7" />
+<img width="1416" height="891" alt="Screenshot 2026-06-09 145919" src="https://github.com/user-attachments/assets/ec6ee7f4-a449-4191-aa66-23d592836a2a" />
+<img width="1751" height="911" alt="Screenshot 2026-06-09 145934" src="https://github.com/user-attachments/assets/78e887fc-eace-4168-927c-a506689ca433" />
+<img width="1711" height="921" alt="Screenshot 2026-06-09 150012" src="https://github.com/user-attachments/assets/59949066-b560-4007-b6fd-79278b49874a" />
+
+
+
+
+
+
+
+
